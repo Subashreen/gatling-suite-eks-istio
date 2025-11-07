@@ -1,0 +1,10 @@
+{
+  "simulation": "PetClinicPostSimulation",
+  "simulationId": "petclinicpostsimulation-20251106192637285",
+  "start": 1762457198229,
+  "description": "10 user 30 minutes",
+  "scenarios": ["POST Owners"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "PetClinicGetSimulation",
+  "simulationId": "petclinicgetsimulation-20251106211210012",
+  "start": 1762463531303,
+  "description": "10 users 30 minutes",
+  "scenarios": ["GET Owners with Validation"],
+  "assertions": [
+
+  ]
+}

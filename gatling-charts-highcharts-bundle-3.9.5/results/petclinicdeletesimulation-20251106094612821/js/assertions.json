@@ -1,0 +1,10 @@
+{
+  "simulation": "PetClinicDeleteSimulation",
+  "simulationId": "petclinicdeletesimulation-20251106094612821",
+  "start": 1762422374016,
+  "description": "10 user 5 minutes",
+  "scenarios": ["DELETE Owner by ID"],
+  "assertions": [
+
+  ]
+}
